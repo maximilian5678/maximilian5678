@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&repeat=false&lines=Hello%2C+I'm+Maximilian+👋" alt="👋"/>
 </a>
 
-***
+---
 🎓 Computer Science student at the University of Konstanz  
 
 <!--
